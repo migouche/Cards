@@ -1,0 +1,52 @@
+{
+  "c_object": "deck",
+  "c_type": "Spanish",
+  "c_back": "Assets/Default Images/Baraja Española/pixelDeck/Additions/cardBack.png",
+  "c_cards": [
+    {"id":  0, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Oro/oro1.png"},
+    {"id":  1, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Oro/oro2.png"},
+    {"id":  2, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Oro/oro3.png"},
+    {"id":  3, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Oro/oro4.png"},
+    {"id":  4, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Oro/oro5.png"},
+    {"id":  5, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Oro/oro6.png"},
+    {"id":  6, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Oro/oro7.png"},
+    {"id":  7, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Oro/oro8.png"},
+    {"id":  8, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Oro/oro9.png"},
+    {"id":  9, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Oro/oro10.png"},
+
+    {"id": 10, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Copa/copa1.png"},
+    {"id": 11, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Copa/copa2.png"},
+    {"id": 12, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Copa/copa3.png"},
+    {"id": 13, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Copa/copa4.png"},
+    {"id": 14, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Copa/copa5.png"},
+    {"id": 15, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Copa/copa6.png"},
+    {"id": 16, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Copa/copa7.png"},
+    {"id": 17, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Copa/cop8.png"},
+    {"id": 18, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Copa/copa9.png"},
+    {"id": 19, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Copa/copa10.png"},
+
+    {"id": 20, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Espada/espada1.png"},
+    {"id": 21, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Espada/espada2.png"},
+    {"id": 22, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Espada/espada3.png"},
+    {"id": 23, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Espada/espada4.png"},
+    {"id": 24, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Espada/espada5.png"},
+    {"id": 25, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Espada/espada6.png"},
+    {"id": 26, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Espada/espada7.png"},
+    {"id": 27, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Espada/espada8.png"},
+    {"id": 28, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Espada/espada9.png"},
+    {"id": 29, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Espada/espada10.png"},
+
+    {"id": 30, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Basto/basto1.png"},
+    {"id": 31, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Basto/basto2.png"},
+    {"id": 32, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Basto/basto3.png"},
+    {"id": 33, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Basto/basto4.png"},
+    {"id": 34, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Basto/basto5.png"},
+    {"id": 35, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Basto/basto6.png"},
+    {"id": 36, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Basto/basto7.png"},
+    {"id": 37, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Basto/basto8.png"},
+    {"id": 38, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Basto/basto9.png"},
+    {"id": 39, "path":  "Assets/Default Images/Baraja Española/pixelDeck/Basto/basto10.png"}
+  ]
+
+
+}
